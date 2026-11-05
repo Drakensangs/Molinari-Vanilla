@@ -1,0 +1,7 @@
+## Interface: 11200
+## Author: Original addon: p3lim; Vanilla 1.12.1 version: Drakensangs
+## Version: 1.0
+## Title: Molinari
+## Notes: One-click Disenchanting, Lockpicking and Feed Pet!
+
+Molinari.lua
