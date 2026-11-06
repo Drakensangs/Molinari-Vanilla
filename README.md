@@ -10,7 +10,7 @@
  - alt + click to Feed Feed
  - animated glow effect on Disenchant (RGB), Lockpick (yellow), Feed Pet (green)
 
-Regarding compatibility, I tested the addon with [**AllInOneInventory**](https://legacy-wow.com/vanilla-addons/allinoneinventory/), [**Bagnon**](https://github.com/McPewPew/Bagnon), [**Bagshui**](https://github.com/Dinkleberrrg/Bagshui), [**EngBags**](https://github.com/ahhh-reptar/EngBags), [**EngInventory**](https://github.com/Brqje/EngInventory) [**Guda**](https://github.com/vatichild/guda), [**OneBag**](https://github.com/deadmeu/OneBag) [**pfUI**](https://github.com/brues-code/pfUI) and [**SUCC-bag**](https://github.com/Otari98/SUCC-bag). In theory, Molinari should be compatible with ALL bag addons, but if you're using an addon that wasn't listed here and have issues with this, then please report it.
+Regarding compatibility, I tested the addon with [**AllInOneInventory**](https://legacy-wow.com/vanilla-addons/allinoneinventory/), [**Bagnon**](https://github.com/McPewPew/Bagnon), [**Bagshui**](https://github.com/Dinkleberrrg/Bagshui), [**EngBags**](https://github.com/ahhh-reptar/EngBags), [**EngInventory**](https://github.com/Brqje/EngInventory), [**Guda**](https://github.com/vatichild/guda), [**OneBag**](https://github.com/deadmeu/OneBag), [**pfUI**](https://github.com/brues-code/pfUI) and [**SUCC-bag**](https://github.com/Otari98/SUCC-bag). In theory, Molinari should be compatible with ALL bag addons, but if you're using an addon that wasn't listed here and have issues with this, then please report it.
 
 ## 👨‍💻 **Authors**
 
